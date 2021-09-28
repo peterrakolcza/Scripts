@@ -13,9 +13,9 @@
 # IPMI SETTINGS:
 # Modify to suit your needs.
 # DEFAULT IP: 192.168.0.120
-IPMIHOST=192.168.1.100
-IPMIUSER=rakolcza
-IPMIPW=NeverQuit
+IPMIHOST=192.168.1.***
+IPMIUSER=*******
+IPMIPW=******
 
 # TEMPERATURE
 # Change this to the temperature in celcius you are comfortable with.
